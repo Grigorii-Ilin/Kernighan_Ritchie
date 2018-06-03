@@ -1,0 +1,4 @@
+﻿  Celsius.cpp
+c:\users\hp\desktop\grig\спп\kernighan_ritchie\1\3-4\celsius\celsius\celsius.cpp(14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hp\desktop\grig\спп\kernighan_ritchie\1\3-4\celsius\celsius\celsius.cpp(16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Celsius.vcxproj -> C:\Users\HP\Desktop\Grig\спп\Kernighan_Ritchie\1\3-4\Celsius\Debug\Celsius.exe
