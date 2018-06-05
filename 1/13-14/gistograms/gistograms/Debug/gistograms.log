@@ -1,0 +1,5 @@
+﻿  histograms.cpp
+c:\users\hp\desktop\grig\спп\kernighan_ritchie\1\13-14\gistograms\gistograms\histograms.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\desktop\grig\спп\kernighan_ritchie\1\13-14\gistograms\gistograms\histograms.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\desktop\grig\спп\kernighan_ritchie\1\13-14\gistograms\gistograms\histograms.cpp(53): warning C4018: '<': signed/unsigned mismatch
+  gistograms.vcxproj -> C:\Users\HP\Desktop\Grig\спп\Kernighan_Ritchie\1\13-14\gistograms\Debug\gistograms.exe
